@@ -4,7 +4,8 @@ Revamp of the OSSM drive mechanism to use a capstan based version, enabling high
 
 A Capstan Drive is based on rope and a pulley. For a nice video explaining the mechanism, check this awesome video by Aaed Musa: [https://www.youtube.com/watch?v=MwIBTbumd1Q](https://www.youtube.com/watch?v=MwIBTbumd1Q "https://www.youtube.com/watch?v=MwIBTbumd1Q")
 
-**Why Capstan?** 
+**Why Capstan?**
+
 The belt driven Version has shown for myself and quite a few others limitations. At higher torques, it would sometimes slip. Bear in mind, it could be that is the result from build or other errors.
 
 **Comparison to the standard OSSM**
