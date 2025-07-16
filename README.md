@@ -38,7 +38,7 @@ This was my first version. It is a proof of concept with quite a few flaws that 
 Thread: https://discord.com/channels/559409652425687041/1331948206061256739
 
 # Quick Change Strap Toy Mount remix
-For compatibility with smaller print beds, I remixed @arctan and @marc_o_v [Quick Change Strap Toy Mount](https://discord.com/channels/559409652425687041/1278049440787337226). It detaches the straps from the Ring. From my experience, this is very secure and only slips under high load when lube come into contact with the connection.
+For compatibility with smaller print beds, I remixed @arctan and @marc_o_v [Quick Change Strap Toy Mount](https://discord.com/channels/559409652425687041/1278049440787337226). It detaches the straps from the Ring. From my experience, this is very secure and only slips under high load when lube come into contact with the connection. You need TPU filament.
 
 Thread: https://discord.com/channels/559409652425687041/1279814763257397298
 
