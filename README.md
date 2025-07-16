@@ -14,7 +14,7 @@ Pro:
 
  - same form factor
  - as quiet or quieter
- - only 13cm of effective rail length loss
+ - only 13cm of effective rail length loss (e.g. 450mm rail -> 32cm stroke)
  - 2.7 times stronger (32kg compared to 12kg)
  - same speed
  - no slipping
