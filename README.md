@@ -37,6 +37,8 @@ Con:
  
 This machine has served me very well for the past months now, I am personally very happy with it. Provide feedback an suggestions in the discord thread.
 
+Thread: https://discord.com/channels/559409652425687041/1395456804464623817
+
 # Capstan Proof of Concept
 This was my first version. It is a proof of concept with quite a few flaws that I have abandoned to see if it is at all a viable concept. This is using 57AIM30 or 42AIM30 motors. You can try this first if you are sceptical to drop over a hundred bucks on a new motor. Bear in mind that quite a bit has changed since then. Changes that are not updated for this Proof of Concept. It worked good enough for me to use it, but it may not for you. The imo truly fleshed out Version is the Capstan XL.
 
@@ -54,7 +56,7 @@ Thread: https://discord.com/channels/559409652425687041/1279814763257397298
 A bracket to mount [these](https://de.aliexpress.com/item/1005006355052746.html?spm=a2g0o.order_list.order_list_main.4.5b3d5c5fPcSZQr&gatewayAdapt=glo2deu) suction cups to 4040 extrusion (tested with aluxprofile Type I). The suction Cups are very strong, I use a total of 4 on my shicks mount. This has the big advantage to not loose any stability that comes with the shicks mount whatsover.
 Requires one suction cup and one UNC-1/4 20 screw for each bracket.
 
-Thread:
+Thread: https://discord.com/channels/559409652425687041/1395419104231559361
 
 # Weight Plate Bracket
 ![IMG20240901165046](https://github.com/user-attachments/assets/34b2ec6e-a550-4a15-9020-d1cc4e6f8592)
