@@ -1,4 +1,10 @@
+
+**Note**: The AIO version of this machine displayed in the pictures, including the mounting of the control board in the front with cables routing to the Motor in the back, is based on @armpit 's idea. The AIO Backpack Cover part in his design is covered by CC BY-NC-SA 4.0 license. The part used in this machine is **not** the same part, it is its own custom for this machine by me designed part. It merely uses a similar design concept as his part. My AIO Cover part is not covered under CC BY-NC-SA 4.0 license.
+
+
 # Capstan-OSSM-XL
+
+
 Revamp of the OSSM drive mechanism to use a capstan based version, enabling higher load use with a more powerful motor, namely the 60AIM40F.
 
 A Capstan Drive is based on rope and a pulley. For a nice video explaining the mechanism, check this awesome video by Aaed Musa: [https://www.youtube.com/watch?v=MwIBTbumd1Q](https://www.youtube.com/watch?v=MwIBTbumd1Q "https://www.youtube.com/watch?v=MwIBTbumd1Q")
