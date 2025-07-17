@@ -1,5 +1,5 @@
 
-**Note**: The AIO version of this machine displayed in the pictures, including the mounting of the control board in the front with cables routing to the Motor in the back, is based on @armpit 's idea. The AIO Backpack Cover part in his design is covered by CC BY-NC-SA 4.0 license. The part used in this machine is **not** the same part, it is its own custom for this machine by me designed part. It merely uses a similar design concept as his part. My AIO Cover part is not covered under CC BY-NC-SA 4.0 license.
+**Note**: The AIO version of this machine displayed in the pictures, including the mounting of the control board in the front with cables routing to the Motor in the back, is based on @thearmpit idea. The AIO Backpack Cover part in his design is covered by CC BY-NC-SA 4.0 license. The part used in this machine is **not** the same part, it is its own custom part, designed by me for this machine . It merely uses a similar design concept as his part. My AIO Cover part is not covered under CC BY-NC-SA 4.0 license.
 
 
 # Capstan-OSSM-XL
