@@ -43,18 +43,21 @@ This was my first version. It is a proof of concept with quite a few flaws that 
 Thread: https://discord.com/channels/559409652425687041/1331948206061256739
 
 # Quick Change Strap Toy Mount remix
+![IMG20240901160629](https://github.com/user-attachments/assets/336ff1f6-5626-4435-9e18-ef7b9a235f9c)
 For compatibility with smaller print beds, I remixed @arctan and @marc_o_v [Quick Change Strap Toy Mount](https://discord.com/channels/559409652425687041/1278049440787337226). It detaches the straps from the Ring. From my experience, this is very secure and only slips under high load when lube come into contact with the connection. You need TPU filament.
 
 Thread: https://discord.com/channels/559409652425687041/1279814763257397298
 
 
 # Suction Cup Bracket
+![IMG20250717123257](https://github.com/user-attachments/assets/2cec80b4-ff7e-49bd-a90f-72971c7b3c5a)
 A bracket to mount [these](https://de.aliexpress.com/item/1005006355052746.html?spm=a2g0o.order_list.order_list_main.4.5b3d5c5fPcSZQr&gatewayAdapt=glo2deu) suction cups to 4040 extrusion (tested with aluxprofile Type I). The suction Cups are very strong, I use a total of 4 on my shicks mount. This has the big advantage to not loose any stability that comes with the shicks mount whatsover.
 Requires one suction cup and one UNC-1/4 20 screw for each bracket.
 
 Thread:
 
 # Weight Plate Bracket
+![IMG20240901165046](https://github.com/user-attachments/assets/34b2ec6e-a550-4a15-9020-d1cc4e6f8592)
 This is a bracket to mount standard 28-30mm inner diameter weight plates onto any extrusion. 2x M5x12 screws + 2x M5 T-Nuts required per Bracket 
 
 Thread: https://discord.com/channels/559409652425687041/1279819188390596669
