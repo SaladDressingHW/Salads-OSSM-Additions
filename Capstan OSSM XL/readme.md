@@ -36,7 +36,9 @@ Con:
  
 This machine has served me very well for the past months now, I am personally very happy with it. Provide feedback an suggestions in the discord thread.
 
-Thread:
+Thread: https://discord.com/channels/559409652425687041/1395456804464623817
+# AIO vs Normal
+The AIO mod version mounts the control board in the front of the motor head. For the normal version there is no mounting at all, and no specific build instructions. I recommend building the AIO version, but if you want to make your own mounting solution, you can print the normal version.
 # Pulley Versions
 The bushing pulley is better. Make that one if you can find a bushing of the appropriate size and don't mind gluing with epoxy. It is better in every way. If you can't or decide against, the 3d printed pulley does its job, but it will deform over time under the constant force. You will need to replace it when that happens. Also only supports rail length up to 400mm.
 
