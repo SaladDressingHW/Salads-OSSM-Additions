@@ -1,4 +1,10 @@
+
+**Note**: The AIO version of this machine displayed in the pictures, including the mounting of the control board in the front with cables routing to the Motor in the back, is based on @thearmpit idea. The AIO Backpack Cover part in his design is covered by CC BY-NC-SA 4.0 license. The part used in this machine is **not** the same part, it is its own custom part, designed by me for this machine . It merely uses a similar design concept as his part. My AIO Cover part is not covered under CC BY-NC-SA 4.0 license.
+
+
 # Capstan-OSSM-XL
+
+
 Revamp of the OSSM drive mechanism to use a capstan based version, enabling higher load use with a more powerful motor, namely the 60AIM40F.
 
 A Capstan Drive is based on rope and a pulley. For a nice video explaining the mechanism, check this awesome video by Aaed Musa: [https://www.youtube.com/watch?v=MwIBTbumd1Q](https://www.youtube.com/watch?v=MwIBTbumd1Q "https://www.youtube.com/watch?v=MwIBTbumd1Q")
@@ -30,7 +36,9 @@ Con:
  
 This machine has served me very well for the past months now, I am personally very happy with it. Provide feedback an suggestions in the discord thread.
 
-Thread:
+Thread: https://discord.com/channels/559409652425687041/1395456804464623817
+# AIO vs Normal
+The AIO mod version mounts the control board in the front of the motor head. For the normal version there is no mounting at all, and no specific build instructions. I recommend building the AIO version, but if you want to make your own mounting solution, you can print the normal version.
 # Pulley Versions
 The bushing pulley is better. Make that one if you can find a bushing of the appropriate size and don't mind gluing with epoxy. It is better in every way. If you can't or decide against, the 3d printed pulley does its job, but it will deform over time under the constant force. You will need to replace it when that happens. Also only supports rail length up to 400mm.
 
