@@ -1,0 +1,37 @@
+Hardware:
+
+Tensioner:
+ 2x M3x30 Hex Cap
+ 4x M5x25 Hex Cap
+ 1x M5x50 Hex Cap
+ 
+ 2x M3 Nut
+ 5x M5 Nut
+
+Motor Head:
+ 42AIM:
+  2x M3x12 Countersunk
+  6x M3x12 Hex Cap
+  1x M4x16 Hex Cap
+  5x M5x35 Countersunk
+
+  5x M5 Nut
+ 
+ 57AIM30:
+  1x M4x16 Hex Cap
+  4x M5x30 Hex Cap
+  2x M5x50 Hex Cap
+  2x M5x80 Hex Cap
+  
+  4x M5 Nut
+  
+
+End Effector:
+ 2x M3x16 ISO7380
+ 2x M3 Nuts
+
+
+Rope:
+any of dyneema dm20, sk99, sk75 max 1mm diameter is a good option
+I recommend, and the pulley is modeled for: liros dc pro 161 (sk99)
+ww shipping shop: https://www.kitelineshop.com/ligne-liros-dcpro161-au-metre-c2x38222201
