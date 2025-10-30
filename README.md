@@ -1,5 +1,5 @@
 This repository has all of my additions, mods and revamps open for Download.
-If you liek my work, consider supporting me on [Ko-Fi](https://ko-fi.com/deepfantasies)!
+If you like my work, consider supporting me on [Ko-Fi](https://ko-fi.com/deepfantasies)!
 # Permissions
 You are welcome to edit/alter/remix, print and use the provided files freely. You are also encouraged to make additions and share them should you see the need for them. You may redistribute only your edits/remixes/alterations and additions with credits to this repo at least. If you want to print my files to sell them, ask me for permission per message first. 
 
