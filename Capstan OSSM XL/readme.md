@@ -2,14 +2,14 @@
 **Note**: The AIO version of this machine displayed in the pictures, including the mounting of the control board in the front with cables routing to the Motor in the back, is based on @thearmpit idea. The AIO Backpack Cover part in his design is covered by CC BY-NC-SA 4.0 license. The part used in this machine is **not** the same part, it is its own custom part, designed by me for this machine . It merely uses a similar design concept as his part. My AIO Cover part is not covered under CC BY-NC-SA 4.0 license.
 
 
-# Capstan-OSSM-XL
-![IMG20250717163516](https://github.com/user-attachments/assets/c26ea6da-c220-4e42-8925-d1a913f3a561)
-
+# Capstan OSSM XL
+![IMG20251109164233](Pictures/HG20/IMG20251109164233.jpg)
 Revamp of the OSSM drive mechanism to use a capstan based version, enabling higher load use with a more powerful motor, namely the 60AIM40F.
 
 A Capstan Drive is based on rope and a pulley. For a nice video explaining the mechanism, check this awesome video by Aaed Musa: [https://www.youtube.com/watch?v=MwIBTbumd1Q](https://www.youtube.com/watch?v=MwIBTbumd1Q "https://www.youtube.com/watch?v=MwIBTbumd1Q")
 
-**Why Capstan?** 
+**Why Capstan?**
+
 The belt driven Version has shown for myself and quite a few others limitations. At higher torques, it would sometimes slip. Bear in mind, it could be that is the result from build or other errors.
 
 **Comparison to the standard OSSM**
@@ -22,7 +22,6 @@ Pro:
  - 2.7 times stronger (32kg compared to 12kg)
  - same speed
  - no slipping
- - no custom pcbs required
  - PitClamp compatible
  - compatible with all custom end effectors
 
@@ -32,13 +31,13 @@ Con:
  - bigger motor -> more expensive (~110€ shipped incl. tax to germany)
  - more to print
  - in extreme use cases there may be slipping of the rail over time, is fixed by rerunning homing
- - only tried and tested by me so far
  
 This machine has served me very well for the past months now, I am personally very happy with it. Provide feedback an suggestions in the discord thread.
 
-Thread: https://discord.com/channels/559409652425687041/1395456804464623817
+Thread MGN12H: https://discord.com/channels/559409652425687041/1395456804464623817
+Thread HG20: https://discord.com/channels/559409652425687041/1437149434143182959
 # MGN12H vs HG20
-MGN12H rails and carriages get to their limit with 30cm+ cantilevers combined with heavy toys ~1.5kg and up. This results in louder operation, damaging of the ebarings over time and deflection issues. So I recommend going with the HG20 Version if you plan to use big heavy toys.
+MGN12H rails and carriages get to their limit with 30cm+ cantilevers combined with heavy toys ~1.5kg and up. This results in louder operation, damaging of the bearings over time and deflection issues. So I recommend going with the HG20 Version if you plan to use big heavy toys.
 Additionally, the HG Version comes with a number of improvements such as a bigger drum and better rope guiding for even smoother operation.
 
 I do consider the MGN12H version to be outdated so I do recommend going with HG20 if you can afford the +~40€ in cost.

@@ -4,8 +4,8 @@ If you like my work, consider supporting me on [Ko-Fi](https://ko-fi.com/deepfan
 You are welcome to edit/alter/remix, print and use the provided files freely. You are also encouraged to make additions and share them should you see the need for them. You may redistribute only your edits/remixes/alterations and additions with credits to this repo at least. If you want to print my files to sell them, ask me for permission per message first. 
 
 All of the above applies to every project here.
-# Capstan-OSSM-XL
-![IMG20250717163516](https://github.com/user-attachments/assets/c26ea6da-c220-4e42-8925-d1a913f3a561)
+# Capstan OSSM XL
+![IMG20251109164233](Capstan%20OSSM%20XL/Pictures/HG20/IMG20251109164233.jpg)
 Revamp of the OSSM drive mechanism to use a capstan based version, enabling higher load use with a more powerful motor, namely the 60AIM40F.
 
 A Capstan Drive is based on rope and a pulley. For a nice video explaining the mechanism, check this awesome video by Aaed Musa: [https://www.youtube.com/watch?v=MwIBTbumd1Q](https://www.youtube.com/watch?v=MwIBTbumd1Q "https://www.youtube.com/watch?v=MwIBTbumd1Q")
@@ -24,7 +24,6 @@ Pro:
  - 2.7 times stronger (32kg compared to 12kg)
  - same speed
  - no slipping
- - no custom pcbs required
  - PitClamp compatible
  - compatible with all custom end effectors
 
@@ -34,16 +33,28 @@ Con:
  - bigger motor -> more expensive (~110€ shipped incl. tax to germany)
  - more to print
  - in extreme use cases there may be slipping of the rail over time, is fixed by rerunning homing
- - only tried and tested by me so far
  
 This machine has served me very well for the past months now, I am personally very happy with it. Provide feedback an suggestions in the discord thread.
 
-Thread: https://discord.com/channels/559409652425687041/1395456804464623817
+Thread MGN12H: https://discord.com/channels/559409652425687041/1395456804464623817
+Thread HG20: https://discord.com/channels/559409652425687041/1437149434143182959
 
 # Capstan Proof of Concept
 This was my first version. It is a proof of concept with quite a few flaws that I have abandoned to see if it is at all a viable concept. This is using 57AIM30 or 42AIM30 motors. You can try this first if you are sceptical to drop over a hundred bucks on a new motor. Bear in mind that quite a bit has changed since then. Changes that are not updated for this Proof of Concept. It worked good enough for me to use it, but it may not for you. The imo truly fleshed out Version is the Capstan XL.
 
 Thread: https://discord.com/channels/559409652425687041/1331948206061256739
+
+# 60AIM40F Motor Cover
+![IMG20251109163441](60AIM40F%20Motor%20Cover/Pictures/IMG20251109163441.jpg)
+Motor Cover for the 60AIM40F cover. Recommedned to only use with a heatsink attached to the back of the motor, where it gets really hot. Connects to armpits experimental 60AIM40F motor ring. For this, you need to replace the Nuts in the motor ring with M5x20 Coupling nuts. Then screw the Cover onto the motor with 4x M5x45 Hex Caps.
+
+Thread: https://discord.com/channels/559409652425687041/1437144846510063636
+
+# Double Penetration Attachment
+![DP_Attachment](24mm%20DP%20Attachment/Pictures/DP_Attachment.jpg)
+A DP Attachment for 24mm threading. Uses a 200mm 3030 Aluminium Extrusion for extra stability and two on t-nuts slidable 24mm threads. Very heavy duty, very sturdy. Recommended to use with Capstan XL HG20 version but of course not required. Hardware needed are 4x M5x10 Hex Caps for the threads, 4x M5x20 for connecting the main part to the 3030 and 8 M5 T-Nuts.
+
+Thread: https://discord.com/channels/559409652425687041/1437143419607847083
 
 # Quick Change Strap Toy Mount remix
 ![IMG20240901160629](https://github.com/user-attachments/assets/336ff1f6-5626-4435-9e18-ef7b9a235f9c)
