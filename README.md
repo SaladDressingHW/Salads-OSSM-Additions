@@ -8,34 +8,6 @@ All of the above applies to every project here.
 ![IMG20251109164233](Capstan%20OSSM%20XL/Pictures/HG20/IMG20251109164233.jpg)
 Revamp of the OSSM drive mechanism to use a capstan based version, enabling higher load use with a more powerful motor, namely the 60AIM40F.
 
-A Capstan Drive is based on rope and a pulley. For a nice video explaining the mechanism, check this awesome video by Aaed Musa: [https://www.youtube.com/watch?v=MwIBTbumd1Q](https://www.youtube.com/watch?v=MwIBTbumd1Q "https://www.youtube.com/watch?v=MwIBTbumd1Q")
-
-**Why Capstan?**
-
-The belt driven Version has shown for myself and quite a few others limitations. At higher torques, it would sometimes slip. Bear in mind, it could be that is the result from build or other errors.
-
-**Comparison to the standard OSSM**
-
-Pro:
-
- - same form factor
- - as quiet or quieter
- - only 13cm of effective rail length loss (e.g. 450mm rail -> 32cm stroke)
- - 2.7 times stronger (32kg compared to 12kg)
- - same speed
- - no slipping
- - PitClamp compatible
- - compatible with all custom end effectors
-
-Con:
-
- - harder to build
- - bigger motor -> more expensive (~110€ shipped incl. tax to germany)
- - more to print
- - in extreme use cases there may be slipping of the rail over time, is fixed by rerunning homing
- 
-This machine has served me very well for the past months now, I am personally very happy with it. Provide feedback an suggestions in the discord thread.
-
 Thread MGN12H: https://discord.com/channels/559409652425687041/1395456804464623817
 Thread HG20: https://discord.com/channels/559409652425687041/1437149434143182959
 
