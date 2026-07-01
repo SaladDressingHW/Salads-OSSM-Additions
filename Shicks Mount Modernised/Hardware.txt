@@ -1,14 +1,16 @@
 - 16x M8x14 ISO7380 for 4x corner brackets
-- 16x spring ball T-Nuts M8 for 4x corner brackets https://de.aliexpress.com/item/1005004658668930.html
-- 6x M6x16 ISO7380 per Hinge
+- 16x Sliding T-Nuts M8 for 4x corner brackets https://de.aliexpress.com/item/1005004658668930.html
+- 6x M8x14 ISO7380 per Hinge
 - 1x M8x60 Hex Cap per Hinge
 - 3x M8x24 washer per Hinge
 - 1x M8x40 washer per Hinge https://de.aliexpress.com/item/1005002399622506.html
-- 6x sliding T-Nuts M6 per Hinge
+- 6x sliding T-Nuts M8 per Hinge
 - 2x M8 Nuts per Hinge
 
 optional for GST220A36 power supply:
 - 2x M5x20 Hex Cap
-- 2x M6x20 Hex Cap
+- 2x M8x20 Hex Cap
 - 2x M5 Nut
-- 2x M6 sliding T-Nut
+- 2x M8 sliding T-Nut
+
+Hex Cap: My designs are made for DIN 912/ISO 4762 Norm
