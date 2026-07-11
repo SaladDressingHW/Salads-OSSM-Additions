@@ -1,10 +1,13 @@
 4x M4x16 ISO7380
 2x M5x45 Countersunk
 4x M5x80 Countersunk
+2x M6x25 Countersunk
 4x M5x20 Hex Cap
-2x M5x25 Hex Cap
-3x M5x30 Hex Cap
+1x M5x25 Hex Cap
+2x M5x30 Hex Cap
 4x M5x65 Hex Cap
 1x M5x110 Hex Cap Fully threaded https://de.aliexpress.com/item/1005005879037174.html
 11x M5 Nuts
 4x M4 Nuts
+
+Hex Cap: My Designs are made for DIN 912/ISO 4762 Norm
