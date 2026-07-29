@@ -1,0 +1,2 @@
+### Only use this version if you do not have or can buy the recommended Power Supply, Mean Well GST220A36.R7B + Adapter. This version is now considered legacy. I strongly recommend making the version with integrated Strain Relief!
+hardware is the same as the version with strain relief!
