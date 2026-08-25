@@ -1,5 +1,5 @@
 - 16x M8x14 ISO7380 for 4x corner brackets
-- 16x Sliding T-Nuts M8 for 4x corner brackets https://de.aliexpress.com/item/1005004658668930.html
+- 16x Sliding T-Nuts M8 for 4x corner brackets, check that it fits your extrusion! For Aluxprofile, take 3030 version: https://de.aliexpress.com/item/1005004658668930.html
 - 6x M8x14 ISO7380 per Hinge
 - 1x M8x60 Hex Cap per Hinge
 - 3x M8x24 washer per Hinge
