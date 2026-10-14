@@ -1,0 +1,3 @@
+# Browser automation belongs in the user's global Pi setup, not this repository.
+/.playwright-mcp/
+/playwright-mcp/
